@@ -1,0 +1,2 @@
+# Dependency for gui_send.py: provides 'serial' and list_ports
+pyserial>=3.5
